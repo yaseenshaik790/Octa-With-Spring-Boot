@@ -1,4 +1,9 @@
 # Octa-With-Spring-Boot
 Octa-With-Spring-Boot
 
-![image](https://github.com/yaseenshaik790/Octa-With-Spring-Boot/assets/59330478/b39edec0-7b1a-4460-847c-966377c0038c)
+Steps:
+1.Login Okat Dev
+2.Create Oct APP and add scope and get client and secret values.
+3.Create Spring boot app and add okta dependencies and add issuer config
+4.generate token using issuer url and access products API using access token
+
